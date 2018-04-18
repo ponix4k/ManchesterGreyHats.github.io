@@ -100,3 +100,75 @@ ul.social li a.fa-reddit {
 ul.social li a.fa-slack {
 	background-color: #3eb991;
 }
+
+/** Mobile sizes **/
+@media screen and (max-width: 737px)  {
+	.logo,
+	.logo span.image,
+	.logo img {
+		height: 250px;
+	}
+	.logo img {
+		width: 250px;
+	}
+	.title p {
+		padding: 0 3em;
+	}
+
+	header > p {
+	    font-size: 1em;
+	}
+}
+
+/** Above Mobile and below Desktop sizes. **/
+@media screen and (max-width: 1200px) and (min-width: 737px) {
+	header {
+	    margin: 0 0 1em 0;
+	}
+
+	header h1 {
+	    margin: 0;
+	}
+
+	.wrapper.first {
+	    padding-top: 4em;
+	}
+}
+
+/** Smaller than desktop size **/
+@media screen and (max-width: 1200px)  {
+	body, input, textarea, select {
+	    line-height: 1.75em;
+	    font-size: 14pt;
+	    letter-spacing: 0;
+	}
+
+	h1 {
+		font-size: 2.5em;
+	}
+
+	h2, h3, h4, h5, h6 {
+	    font-size: 2em;
+	}
+
+	nav {
+		height: 3.25em;
+	}
+
+	.logo,
+	.logo span.image,
+	.logo img {
+		height: 250px;
+	}
+	.logo img {
+		width: 250px;
+		margin: 0 auto;
+	}
+
+	body > div.style1,
+	body > div.style2,
+	body > div.style3,
+	body > div.style4 {
+		padding: 1em 0;
+	}
+}
