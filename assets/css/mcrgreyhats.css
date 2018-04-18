@@ -65,6 +65,10 @@ body > div.style4 {
 	margin-bottom: 0.25em;
 }
 
+.logo {
+	margin-bottom: 2em;
+}
+
 /** Who we are section. **/
 .about-body {
 	margin: 0 3em;
