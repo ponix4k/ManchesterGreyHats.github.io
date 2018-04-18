@@ -64,3 +64,9 @@ body > div.style4 {
 .title p {
 	margin-bottom: 0.25em;
 }
+
+/** Who we are section. **/
+.about-body {
+	margin: 0 3em;
+	text-align: left;
+}
