@@ -23,6 +23,14 @@ a.icon:hover {
 	cursor: inherit;
 }
 
+/** Reduce vertical spacing between sections. **/
+body > div.style1,
+body > div.style2,
+body > div.style3,
+body > div.style4 {
+	padding: 4em 0;
+}
+
 /** Nav & hackthebox section. **/
 .hackthebox {
     display: block;
