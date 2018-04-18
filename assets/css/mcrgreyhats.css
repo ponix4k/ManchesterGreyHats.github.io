@@ -79,3 +79,24 @@ body > div.style4 {
 #contact header {
 	margin-bottom: 0;
 }
+
+/** Missing/incorrect icon colours **/
+ul.social li a.fa-github {
+	background-color: #4078c0;
+}
+
+ul.social li a.fa-meetup {
+	background-color: #e0393e;
+}
+
+ul.social li a.fa-envelope-o {
+	background-color: #ccc;
+}
+
+ul.social li a.fa-reddit {
+	background-color: #5f99cf;
+}
+
+ul.social li a.fa-slack {
+	background-color: #3eb991;
+}
