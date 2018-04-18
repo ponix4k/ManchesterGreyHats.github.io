@@ -1,0 +1,24 @@
+/**
+ * mcrgreyhats.css
+ *
+ * A bunch of customisations and improvements from the original theme.
+ * These are written purely in CSS for simplicity (and because the theme
+ * SASS doesn't include a config.rb or equivalent for settings).
+ **/
+
+/** Links section. **/
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.icon:hover {
+	text-decoration: none;
+}
+
+.icon.featured:hover {
+	cursor: inherit;
+}
