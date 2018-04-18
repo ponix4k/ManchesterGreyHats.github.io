@@ -55,3 +55,12 @@ body > div.style4 {
 	display: table;
 	clear: both;
 }
+
+/** Site header and logo section. **/
+.title {
+	float: right;
+}
+
+.title p {
+	margin-bottom: 0.25em;
+}
