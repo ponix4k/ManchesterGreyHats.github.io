@@ -74,3 +74,8 @@ body > div.style4 {
 	margin: 0 3em;
 	text-align: left;
 }
+
+/** Contact section. **/
+#contact header {
+	margin-bottom: 0;
+}
