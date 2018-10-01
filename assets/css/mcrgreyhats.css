@@ -176,3 +176,7 @@ ul.social li a.fa-slack {
 		padding: 1em 0;
 	}
 }
+
+#top .image img {
+	border-radius: 0 !important;
+}
