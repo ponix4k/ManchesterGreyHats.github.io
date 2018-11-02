@@ -1,14 +1,16 @@
 Manchester Grey Hats Code of Conduct 
 
-General Conduct 
+Conduct in Grey Hats Spaces.
 
-Manchester Grey Hats meetings, events, workshops and online environments are inclusive places where all people should feel safe and respected. 
+Manchester Grey Hats spaces include our meetings, events, workshops, slack channel and Meetup Page. These are inclusive places where all people should feel safe and respected.
 
 We welcome diversity in age, race, ethnicity, national origin, range of abilities, sexual orientation, gender identity, financial means, education, and political perspective.
 
-Manchester Grey Hats will not tolerate any form of harassment, hate speech or trolling either off or online, or any overly drunken, intimidating, heckling or violent behaviour.
+We want all our members to enjoy a safe and respectful environment.
 
-We want you to have fun, in a safe and respectful environment.
+We will not tolerate any form of harassment, hate speech or trolling either off or online, or any overly drunken, intimidating, heckling or violent behaviour in our spaces. Harassment can be either verbal, written, behavioural or imagery and includes any racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery. “Jokes”, “banter” and “freedom of speech” will not be accepted as justifications or excuse for such language, behaviour or imagery. 
+
+Although we cannot police the behaviour of members or contributors outside these spaces, we will do everything we can to help resolve any issues that may occur outside our spaces. If we are made aware of any incidents of racist, homophobic, transphobic, sexist, sexually inappropriate or religiously discriminatory language, behaviour or imagery that result in a ban from one group, that ban may be transferred to other groups. 
 
 If you have any issues or concerns relating to the code of conduct please contact one of the organisers either in person, though the Meetup page or via their email or Slack. 
 
@@ -18,14 +20,14 @@ Saskia Coplans (saskia@manchestergreyhats.co.uk / @ms-chief)
 
 If you have an issues at an event, meeting or workshop please either speak to the presenter or to Jahmel or Saskia.
 
-
 Meetings and Workshops
 
 Manchester Grey Hats meetings and workshops are not sponsored and are dry events.  They are open to under 18’s, however we do not accept responsibility for minors so meetings and workshops are not appropriate for under 16’s unless accompanied by an adult.
 
 Meetings and talks are pitched at all technical levels, however workshops will require some level of technical ability. Whilst all technical levels are welcome at the workshops, we may not have capacity to coach beginners and ask that attendees are respectful of this. 
 
-When attending meetings and workshops please respect the presenters.  Pleas don’t talk amongst yourselves during their presentations, have your phones either muted or switched off and be aware that this is a group activity.
+When attending meetings and workshops please respect the presenters.  Please don’t talk amongst yourselves during their presentations, have your phones either muted or switched off and be aware that this is a group activity.
+
+We are guests of the venues we use, so please be respectful. Don’t tamper with fixtures, hardware, software or infrastructure, or generally take thinks such a food and drink without permission. 
 
 All Manchester Grey Hats spaces are privately run and we withhold the right to remove and ultimately ban anyone who violates this code of conduct.
-
