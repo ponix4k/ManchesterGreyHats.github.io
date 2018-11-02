@@ -15,7 +15,7 @@ Although we cannot police the behaviour of members or contributors outside these
 If you have any issues or concerns relating to the code of conduct please contact one of the organisers either in person, though the Meetup page or via their email or Slack. 
 
 Grey Hats Organisers:
-Jay Harris (jahmel@manchestergreyhats.co.uk / @rookie)
+Jay Harris (jay@manchestergreyhats.co.uk / @rookie)
 Saskia Coplans (saskia@manchestergreyhats.co.uk / @ms-chief) 
 
 If you have an issues at an event, meeting or workshop please either speak to the presenter or to Jahmel or Saskia.
